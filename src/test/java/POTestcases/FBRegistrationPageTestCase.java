@@ -18,7 +18,7 @@ public void FBRegistrationPageTestCase(String Firstname,String Lastname,String D
 	.setDate(Date)
 	.Gender(Gender)
 	.enterEmailID(Email)
-	.enterPassword(Pass)
-	.chumma(Pass);
+	.enterPassword(Pass);
+	
 }
 }

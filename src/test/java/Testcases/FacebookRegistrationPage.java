@@ -75,7 +75,4 @@ public class FacebookRegistrationPage extends HybridGenericWrappers {
 		return this;
 
 	}
-	public void chumma(String HI) {
-		System.out.printf("Hello",HI);
 	}
-}
